@@ -40,13 +40,18 @@ Run the command:
 The application window will open automatically. The database file theonedatabase.db will be created on its own the first time you run it
 
 SOURCES USED TO LEARN : 
+
 Manav Codatey : https://dev.to/manavcodaty/building-a-powerful-inventory-management-system-with-python-84g
+
 Yavuz ERTUĞRUL
 https://levelup.gitconnected.com/building-a-simple-supermarket-inventory-system-with-python-and-sqlite-4382fbd6c596
+
 EscapeRoomCoding: 
 https://www.youtube.com/watch?v=XMXGuOmGUFA&t=1111s
+
 Coding Lifestyle 4u : 
 https://www.youtube.com/watch?v=bLUzemo0qgE&t=2062s
+
 RenzyCode: 
 https://www.youtube.com/playlist?list=PLy9yK0YJ0nQZzdYQUf73ahFNOeadmWCrt
 
